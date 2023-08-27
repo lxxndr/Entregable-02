@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+.card {
+    width: 250px;
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.card img {
+    width: 100%;
+    height: 150px;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-title {
+    margin: 0;
+    font-size: 18px;
+}
+
+.card-text {
+    margin-top: 10px;
+}
+
+.card-list {
+    margin-top: 5%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.title-paquetes>h1{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.hotel-icon{
+    color: rgb(173, 16, 16);
+    width: 20px;
+    height: 20px;
+}
+
+.wifi-icon{
+    color: rgb(173, 16, 16);
+    width: 20px;
+    height: 20px;
+}
+
+.transport-icon{
+    color: rgb(173, 16, 16);
+    width: 20px;
+    height: 20px;
+}
+
+.food-icon{
+    color: rgb(173, 16, 16);
+    width: 20px;
+    height: 20px;
+}
+
+.precio{
+    font-weight: bold;
+    color: #ff4c4c;
+}
+

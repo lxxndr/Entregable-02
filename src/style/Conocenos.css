@@ -1,0 +1,39 @@
+.mision-vision{
+    margin-top: 10%;
+}
+.conocenos-content{
+    text-align: center;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.conocenos-content>h1{
+    margin-bottom: 2%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.conocenos-content>p{
+    font-size: 12px;
+}
+
+
+.mision{
+    text-align: left;
+    padding-right: 20px;
+    font-size: 13px;
+    padding-left: 5%;
+}
+
+.vision{
+    font-size: 13px;
+    padding-right: 5%;
+}
+
+.titulo{
+    font-weight: bold;
+}
+
+.vision{
+    text-align: right;
+}

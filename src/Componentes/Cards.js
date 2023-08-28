@@ -58,7 +58,7 @@ const Cards = () => {
             precio_dolares: 'USD 3 638 ',
             precio_soles: 'PEN 10 000',
             image: 'https://elviajerofeliz.com/wp-content/uploads/2017/10/Rutas-por-Londres.jpg',
-            mapLink: 'https://www.google.com/maps',
+            mapLink: 'https://www.google.com/maps/dir/Aeropuerto+Internacional+Jorge+Ch%C3%A1vez+(LIM),+Av.+Elmer+Faucett+s%2Fn,+Callao+07031/Aeropuerto+de+la+Ciudad+de+Londres+(LCY),+Hartmann+Road,+Londres,+Reino+Unido/@18.4858837,-60.1954924,4z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x9105cc3d52f51e01:0x1f75ae97fb12652c!2m2!1d-77.1079976!2d-12.0230437!1m5!1m1!1s0x47d8a8880ebb3687:0x774e8a0a64b1a4b!2m2!1d0.049518!2d51.5048437!3e4?entry=ttu',
         },
         {
             title: 'Ayacucho',
@@ -68,7 +68,7 @@ const Cards = () => {
             precio_dolares: 'USD 200',
             precio_soles: 'PEN 670 ',
             image: 'https://2.blogs.elcomercio.pe/checklistviajero/wp-content/uploads/sites/292/2022/11/Ayacucho-PromPeru.jpg',
-            mapLink: 'https://www.google.com/maps',
+            mapLink: 'https://www.google.com/maps/dir/Aeropuerto+Internacional+Jorge+Ch%C3%A1vez+(LIM),+Avenida+Elmer+Faucett,+Callao/Aeropuerto+Nacional+Alfredo+Mend%C3%ADvil+Duarte+de+Ayacucho+(AYP),+Amancaes+961,+Ayacucho+05001/@-12.5861693,-76.3165166,9z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x9105cc3d52f51e01:0x1f75ae97fb12652c!2m2!1d-77.1079976!2d-12.0230437!1m5!1m1!1s0x91128744eca660c5:0x8e5a5b66972ce8e1!2m2!1d-74.2062333!2d-13.1535906!3e4?entry=ttu',
         },
         {
             title: 'Santiago de Chile',
@@ -78,7 +78,7 @@ const Cards = () => {
             precio_dolares: 'USD 1 109 ',
             precio_soles: 'PEN 4 047',
             image: 'https://elcomercio.pe/resizer/p5bfxIurBC_Z7ewhHkRV18iGKxk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/VBRGPJZ6PRDMFE5MWB3KRD76PQ.jpeg',
-            mapLink: 'https://www.google.com/maps',
+            mapLink: 'https://www.google.com/maps/dir/Aeropuerto+Internacional+Jorge+Chávez+(LIM),+Av.+Elmer+Faucett+s%2Fn,+Callao+07031/Aeropuerto+Internacional+Arturo+Merino+Benítez+-+Armando+Cortinez+Oriente,+Pudahuel,+Chile/@-22.3565991,-84.6159024,5z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x9105cc3d52f51e01:0x1f75ae97fb12652c!2m2!1d-77.1079976!2d-12.0230437!1m5!1m1!1s0x9662c1c698e8603b:0x5ff1cd81b19fa9e5!2m2!1d-70.7936148!2d-33.3969306!3e4?entry=ttu',
         },
     ];
 

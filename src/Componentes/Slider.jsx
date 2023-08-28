@@ -43,11 +43,11 @@ function Slider() {
       >
         <SwiperSlide>
           <img src={slide_image_1} alt="slide_image" />
-          <h2 className='destino'> Alemania</h2>
+          <h2 className='destino'> Berlin, Alemania</h2>
         </SwiperSlide>
         <SwiperSlide>
           <img src={slide_image_2} alt="slide_image" />
-          <h2 className='destino'> Argentina</h2>
+          <h2 className='destino'> Buenos Aires, Argentina</h2>
         </SwiperSlide>
         <SwiperSlide>
           <img src={slide_image_3} alt="slide_image" />
@@ -55,11 +55,11 @@ function Slider() {
         </SwiperSlide>
         <SwiperSlide>
           <img src={slide_image_4} alt="slide_image" />
-          <h2 className='destino'> Paris</h2>
+          <h2 className='destino'> Paris, Francia</h2>
         </SwiperSlide>
         <SwiperSlide>
           <img src={slide_image_5} alt="slide_image" />
-          <h2 className='destino'> Roma</h2>
+          <h2 className='destino'> Roma, Italia</h2>
         </SwiperSlide>
 
 

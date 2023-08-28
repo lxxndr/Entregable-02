@@ -24,6 +24,7 @@ function Navegacion() {
         <a href="/#inicio">Inicio</a>
         <a href="/#conocenos">Conocenos</a>
         <a href="/#destinos">Destinos</a>
+        <a href="/#paquetes">Paquetes</a>
         <a href="/#consultas">Consultas</a>
         <a href="/login"><CgProfile className="profile" onClick={handleIconClick}/></a>
         <button className="nav-btn nav-close-btn" onClick={showNavbar}>

@@ -42,7 +42,7 @@ body {
   background: var(--bg);
   background: linear-gradient(#fff4f4, rgb(255, 242, 244));
   overflow-x: hidden;
-  width: 860px;
+  width: 100%;
 }
 
 .container {

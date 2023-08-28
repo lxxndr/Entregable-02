@@ -7,7 +7,7 @@ import {MdOutlineFoodBank} from 'react-icons/md';
 
 const Card = ({ title, description, content, image,p_precio, precio_dolares, precio_soles, mapLink }) => {
     return (
-        <div className='cards'>
+        <div className='cards' id='paquetes'>
             <div className="card">
                 <img src={image} alt={title} />
                 <div className="card-body">
